@@ -1,0 +1,6 @@
+c:\users\julian.willing\documents\visual studio 2015\Projects\ConnectFour\bin\Debug\ConnectFour.exe.config
+c:\users\julian.willing\documents\visual studio 2015\Projects\ConnectFour\bin\Debug\ConnectFour.exe
+c:\users\julian.willing\documents\visual studio 2015\Projects\ConnectFour\bin\Debug\ConnectFour.pdb
+c:\users\julian.willing\documents\visual studio 2015\Projects\ConnectFour\obj\Debug\ConnectFour.exe
+c:\users\julian.willing\documents\visual studio 2015\Projects\ConnectFour\obj\Debug\ConnectFour.pdb
+c:\users\julian.willing\documents\visual studio 2015\Projects\ConnectFour\obj\Debug\ConnectFour.csprojResolveAssemblyReference.cache
